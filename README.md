@@ -1,5 +1,7 @@
 # YouTube Timeline
 
+[Chrome web store link](https://chrome.google.com/webstore/detail/youtube-timeline/jjhifobmdjhlphmilfmemefedpkmhdnb?hl=en&authuser=0)
+
 Chrome extension that displays comments with timestamp right above the timeline.
 Currently, source code does not contain background.js file which will be published soon.
 
